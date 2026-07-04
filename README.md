@@ -51,7 +51,8 @@ At startup, ViraWM automatically decides the best connection strategy:
 </p>
 
 <p align="center">
-  <i>📡 Static IP configuration interface inside ViraWM captive portal</i>
+  <b>Static IP Configuration Panel</b><br>
+  <sub>Part of ViraWM Captive Portal UI</sub>
 </p>
 
 ---
