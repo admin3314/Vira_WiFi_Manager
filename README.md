@@ -268,6 +268,14 @@ Designed for long-running IoT and embedded systems
 
 ---
 
+
+## 📚 Tutorials & Files
+
+- 📺 Full tutorials: https://youtube.com/@viramedar  
+- 📦 PCB, schematics, and project files available on Telegram : <a href="https://t.me/viramedar"> T.me/ViraMedar </a> 
+
+---
+
 ## 📜 License
 
 MIT License
