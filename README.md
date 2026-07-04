@@ -1,2 +1,9 @@
-# Vira_WiFi_Manager
-Professional WiFi Manager for ESP8266 featuring Captive Portal, Static IP configuration, Gateway, Subnet Mask, EEPROM profile management and enhanced configuration tools.
+Vira WiFi Manager Library
+Copyright (C) 2026 Mostafa Mir Mosavi (ViraMedar)
+
+YouTube: https://youtube.com/@viramedar
+Telegram: https://t.me/viramedar
+Instagram: https://instagram.com/viramedr
+
+This library is provided for educational and commercial use,
+but attribution to ViraMedar channel is required.
