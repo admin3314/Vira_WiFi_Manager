@@ -39,14 +39,24 @@ It removes the complexity of WiFi configuration and replaces it with a smart, se
 
 At startup, ViraWM automatically decides the best connection strategy:
 
-🔵 Normal Mode (Saved Credentials Found)
+### 🔵 Normal Mode (Saved Credentials Found)
 
-✔ Connects automatically to saved WiFi
+✔ Connects automatically to saved WiFi  
+✔ Applies Static IP (if enabled)  
 
-✔ Applies Static IP (if enabled)
+---
 
-✔ Restores previous network state
+<p align="center">
+  <img src="https://raw.githubusercontent.com/admin3314/Vira_WiFi_Manager/main/assets/demo.jpg" width="260"/>
+</p>
 
+<p align="center">
+  <i>📡 Static IP configuration interface inside ViraWM captive portal</i>
+</p>
+
+---
+
+✔ Restores previous network state  
 ✔ Runs in STA mode
 
 🔴 Recovery Mode (No WiFi / Failed Connection)
@@ -260,6 +270,7 @@ Designed for long-running IoT and embedded systems
 ## 📜 License
 
 MIT License
+
 This project is released under a commercial-friendly custom license by ViraMedar.
 
 ---
@@ -268,16 +279,27 @@ This project is released under a commercial-friendly custom license by ViraMedar
 # ⭐ Future Plans
 
 ESP32 support
+
 Web dashboard upgrade
+
 JSON configuration API
+
 OTA update integration
+
 Multi-device provisioning
+
+
+---
+
 
 # 💬 Notes
 
 This library is optimized for:
 
 IoT projects
+
 Smart home systems
+
 ESP8266 automation
+
 Industrial embedded systems
