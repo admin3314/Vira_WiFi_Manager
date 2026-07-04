@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/ESP8266-ViraWM-0ea5e9?style=for-the-badge&logo=espressif"/>
   <img src="https://img.shields.io/badge/IoT-WiFi_Manager-1f2937?style=for-the-badge&logo=wifi"/>
   <img src="https://img.shields.io/badge/Author-Mostafa%20MirMousavi-ff8800?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Version-1.0.0-22c55e?style=for-the-badge&logo=semantic-release"/>
+  <img src="https://img.shields.io/badge/Version-2.0.0-22c55e?style=for-the-badge&logo=semantic-release"/>
   <img src="https://img.shields.io/badge/Status-Stable-success?style=for-the-badge&logo=checkmarx"/>
 </p>
 
